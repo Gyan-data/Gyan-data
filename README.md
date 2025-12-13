@@ -1,4 +1,3 @@
-# Gyan-Singh
 
 <h1 align="center">Hi 👋, I'm Gyan Singh</h1>
 <h3 align="center">Azure Data Engineer | Databricks | PySpark | ADF | SQL | Power BI</h3>
