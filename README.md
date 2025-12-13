@@ -19,8 +19,8 @@ I love working on real-world data engineering projects and continuously improvin
 </p>
 
 ### 🏅 Certifications
-- Microsoft Certified: Azure Data Engineer Associate
 - Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Data Engineer Associate
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ## 📂 Featured Projects
