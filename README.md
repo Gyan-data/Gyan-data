@@ -25,8 +25,7 @@ I love working on real-world data engineering projects and continuously improvin
 
 ## 📂 Featured Projects
 
-### 🔹 End-to-end Azure Lakehouse Medallion Architecture
-(ADF | ADLS Gen2 | Databricks | Synapse | Power BI)
+### 🔹 End-to-end Azure Lakehouse Medallion Architecture(ADF | ADLS Gen2 | Databricks | Synapse | Power BI)
 [GitHub Repository](https://github.com/Gyan-data/Ecommerce-Analytics-platform-on-Azure---Medallion-Architecture)
 
 Description: Built a complete retail analytics pipeline using ADF, ADLS, Databricks, and Power BI following the Medallion Architecture.
