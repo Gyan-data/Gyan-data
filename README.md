@@ -2,7 +2,7 @@
 
 ---
 
-I am a passionate **Azure Data Engineer** with hands-on experience in building **end-to-end data pipelines** and analytics solutions on the Azure cloud. I work with modern data engineering tools such as **Azure Data Factory, Databricks, PySpark, ADLS Gen2, Azure Synapse Analytics, and Power BI** to transform raw data into meaningful business insights.
+I am a passionate **Data Engineer** with hands-on experience in building **end-to-end data pipelines** and analytics solutions on the Azure cloud. I work with modern data engineering tools such as **Azure Data Factory, Databricks, PySpark, ADLS Gen2, Azure Synapse Analytics, and Power BI** to transform raw data into meaningful business insights.
 
 I enjoy working on real-world data engineering projects and continuously upskilling myself to stay aligned with industry best practices and modern Lakehouse architectures.
 
