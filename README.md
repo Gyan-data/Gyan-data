@@ -32,9 +32,12 @@ Description: Designed and implemented a production-ready retail analytics Lakeho
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gyan-data&show_icons=true&theme=dark" />
 </p>
+
 
 
 
