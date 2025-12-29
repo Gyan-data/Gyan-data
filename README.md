@@ -30,9 +30,12 @@ I love working on real-world data engineering projects and continuously improvin
 
 Description: Designed and implemented a production-ready retail analytics Lakehouse pipeline using Azure Data Factory, ADLS Gen2, Azure Databricks, Azure Synapse Analytics, and Power BI, following the Bronze–Silver–Gold Medallion Architecture for scalable ingestion, transformation, and analytics.
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyan-data&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gyan-data&show_icons=true&theme=dark)
+
+
+
 
 
 
