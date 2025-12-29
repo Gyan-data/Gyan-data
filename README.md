@@ -34,6 +34,7 @@ Description: Designed and implemented a production-ready retail analytics Lakeho
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gyan-data&show_icons=true&theme=dark)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Gyan-data&theme=dark)
 
 
 
