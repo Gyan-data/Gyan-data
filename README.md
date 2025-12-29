@@ -42,7 +42,6 @@ my cloud engineering skills.
   <li>Microsoft Certified: Azure Fundamentals (AZ-900)</li>
 </ul>
 
-<hr/>
 
 <h2>📂 Featured Projects</h2>
 
